@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const feedback = document.getElementById("feedback");
     const historicoLista = document.getElementById("historico");
 
-    const airtableApiKey = "SUA_API_KEY"; // Substitua pela sua chave de API
+    const airtableApiKey = "patQeBm4gkHlKs3qL.32e8a4fc31793b125804049e60f346c67d8daca0147130a886a5e4985bce5688"; // Substitua pela sua chave de API
     const baseId = "app8N61FB3kz14zWV";
     const tableName = "tblDJHNCjI06KzOik";
 
